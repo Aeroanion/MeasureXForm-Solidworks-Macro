@@ -5,7 +5,7 @@
 The purpose of this macro is to provide Solidworks users with a transformation matrix between coordinate systems in the feature tree, including user-defined and the default (global) coordinate system(s). The user interface is designed to make this quick and easy.
 
 <p align="center">
-  <img width="630" height="300" src="https://github.com/Aeroanion/MeasureXForm-Solidworks-Macro/blob/SelectCoordFrameFromTree/MeasureXForm_UI.JPG">
+  <img width="630" height="300" src="https://github.com/Aeroanion/MeasureXForm-Solidworks-Macro/blob/master/MeasureXForm_UI.JPG">
 </p>
 
 ## Instructions
