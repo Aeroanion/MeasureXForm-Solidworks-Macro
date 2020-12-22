@@ -22,6 +22,10 @@ The purpose of this macro is to provide Solidworks users with a transformation m
 
 - The desired 4x4 transformation matrix is provided in the text box at the bottom of the window. After highlighting and copying the matrix, the matrix can be pasted into Excel. Each of the 16 elements will paste into its own cell.
 
+<p align="center">
+  <img src="https://github.com/Aeroanion/MeasureXForm-Solidworks-Macro/blob/SelectCoordFrameFromTree/MeasureXForm_UI.JPG">
+</p>
+
 ![alt text](https://github.com/Aeroanion/MeasureXForm-Solidworks-Macro/blob/SelectCoordFrameFromTree/MeasureXForm_UI.JPG?style=centerme)
 
 ## License
