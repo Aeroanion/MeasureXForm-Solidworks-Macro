@@ -28,6 +28,6 @@ The purpose of this macro is to provide Solidworks users with a transformation m
 
 ## License
 
-Copyright 2020, Aeroanion
+Copyright 2021, Aeroanion
 
 The MIT License, which is very permissive. See the LICENSE.md file for license body.
